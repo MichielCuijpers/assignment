@@ -21,7 +21,7 @@ Training preparation
 
 * Use this repository as a template by clicking on the green "**Use this template**" button.
 
-[<img width="160" alt="image" src="https://user-images.githubusercontent.com/6178160/196057620-5d0acafb-b2a9-47fe-bae8-a67f7146c15f.png">](https://github.com/clean-code-workshop/sigrid-training-2022/generate)
+[<img width="160" alt="image" src="https://user-images.githubusercontent.com/6178160/196057620-5d0acafb-b2a9-47fe-bae8-a67f7146c15f.png">](https://github.com/sigridworkshop/assignment/generate)
 
 
 * Change the **Owner** to '**sigridworkshop**'
