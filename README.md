@@ -24,7 +24,7 @@ Training preparation
 [<img width="160" alt="image" src="https://user-images.githubusercontent.com/6178160/196057620-5d0acafb-b2a9-47fe-bae8-a67f7146c15f.png">](https://github.com/clean-code-workshop/sigrid-training-2022/generate)
 
 
-* Change the **Owner** to '**clean-code-workshop**'
+* Change the **Owner** to '**sigridworkshop**'
 
 * Choose a **repository name** (eg. TeamName)
 
