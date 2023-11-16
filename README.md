@@ -31,7 +31,7 @@ Training preparation
 * Choose **Public** repository.
 
 Congratulations, your repository will be analysed by Sigrid and will appear soon in the dashboard.<br />
-Visit https://sigrid-says.com/sigrid2022 and log in with your Sigrid account.
+Visit https://sigrid-says.com/workshop and log in with your Sigrid account.
 
 If you don't have a Sigrid account yet, please ask your teacher to create one for you.
 
